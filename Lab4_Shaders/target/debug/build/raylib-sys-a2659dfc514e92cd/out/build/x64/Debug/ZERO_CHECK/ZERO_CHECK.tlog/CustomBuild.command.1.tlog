@@ -1,0 +1,10 @@
+^C:\USERS\IRISA\GRAFICAS\GPC-LAB4-SHADERS\LAB4_SHADERS\TARGET\DEBUG\BUILD\RAYLIB-SYS-A2659DFC514E92CD\OUT\BUILD\CMAKEFILES\53E8EE6D44ADC14D5083557867BC4143\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/irisa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/raylib-sys-5.5.1/raylib -BC:/Users/irisa/graficas/GPC-Lab4-Shaders/Lab4_Shaders/target/debug/build/raylib-sys-a2659dfc514e92cd/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/irisa/graficas/GPC-Lab4-Shaders/Lab4_Shaders/target/debug/build/raylib-sys-a2659dfc514e92cd/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

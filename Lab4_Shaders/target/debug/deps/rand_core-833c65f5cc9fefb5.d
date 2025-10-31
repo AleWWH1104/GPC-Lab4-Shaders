@@ -1,0 +1,11 @@
+C:\Users\irisa\graficas\GPC-Lab4-Shaders\Lab4_Shaders\target\debug\deps\rand_core-833c65f5cc9fefb5.d: C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\irisa\graficas\GPC-Lab4-Shaders\Lab4_Shaders\target\debug\deps\librand_core-833c65f5cc9fefb5.rlib: C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\irisa\graficas\GPC-Lab4-Shaders\Lab4_Shaders\target\debug\deps\librand_core-833c65f5cc9fefb5.rmeta: C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs:
+C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs:
+C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs:
+C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs:
+C:\Users\irisa\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs:

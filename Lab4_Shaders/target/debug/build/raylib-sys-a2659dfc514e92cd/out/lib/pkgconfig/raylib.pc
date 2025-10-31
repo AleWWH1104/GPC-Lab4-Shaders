@@ -1,0 +1,13 @@
+prefix=C:/Users/irisa/graficas/GPC-Lab4-Shaders/Lab4_Shaders/target/debug/build/raylib-sys-a2659dfc514e92cd/out
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: raylib
+Description: A simple and easy-to-use library to enjoy videogames programming
+URL: https://github.com/raysan5/raylib
+Version: 5.5.0
+Libs: -L"${libdir}" -lraylib 
+Libs.private: 
+Requires.private: 
+Cflags: -I"${includedir}"
